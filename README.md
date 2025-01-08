@@ -1,18 +1,10 @@
-- 👋 Hi, I’m @VizingBear
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <div id="header" align="center">
   <img src="https://gifdb.com/images/high/i-m-coding-machine-animation-c85t0so5hpi45qw5.webp" width="100"/>
 </div>
-<div id="badges">
-  <a href="https://hh.ru/resume/e5838c67ff0cd1c5640039ed1f657645544e47">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="HeadHuner resume"/>
-  </a>
-</div>
+<h1>
+  My name is Malanka Ilya and I welcome you
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <!---
 VizingBear/VizingBear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
